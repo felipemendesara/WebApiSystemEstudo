@@ -1,0 +1,17 @@
+C:\Users\Felipe Mendes\Source\Repos\WebApi\WebApi\bin\WebApi.dll.config
+C:\Users\Felipe Mendes\Source\Repos\WebApi\WebApi\bin\WebApi.dll
+C:\Users\Felipe Mendes\Source\Repos\WebApi\WebApi\bin\WebApi.pdb
+C:\Users\Felipe Mendes\Source\Repos\WebApi\WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Felipe Mendes\Source\Repos\WebApi\WebApi\bin\Newtonsoft.Json.dll
+C:\Users\Felipe Mendes\Source\Repos\WebApi\WebApi\bin\System.Net.Http.Formatting.dll
+C:\Users\Felipe Mendes\Source\Repos\WebApi\WebApi\bin\System.Web.Http.dll
+C:\Users\Felipe Mendes\Source\Repos\WebApi\WebApi\bin\System.Web.Http.WebHost.dll
+C:\Users\Felipe Mendes\Source\Repos\WebApi\WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Felipe Mendes\Source\Repos\WebApi\WebApi\bin\Newtonsoft.Json.xml
+C:\Users\Felipe Mendes\Source\Repos\WebApi\WebApi\bin\System.Net.Http.Formatting.xml
+C:\Users\Felipe Mendes\Source\Repos\WebApi\WebApi\bin\System.Web.Http.xml
+C:\Users\Felipe Mendes\Source\Repos\WebApi\WebApi\bin\System.Web.Http.WebHost.xml
+C:\Users\Felipe Mendes\Source\Repos\WebApi\WebApi\obj\Debug\WebApi.csprojResolveAssemblyReference.cache
+C:\Users\Felipe Mendes\Source\Repos\WebApi\WebApi\obj\Debug\WebApi.csproj.CoreCompileInputs.cache
+C:\Users\Felipe Mendes\Source\Repos\WebApi\WebApi\obj\Debug\WebApi.dll
+C:\Users\Felipe Mendes\Source\Repos\WebApi\WebApi\obj\Debug\WebApi.pdb
